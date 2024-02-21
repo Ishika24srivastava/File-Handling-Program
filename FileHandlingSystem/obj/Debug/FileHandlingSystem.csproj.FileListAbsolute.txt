@@ -1,0 +1,22 @@
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\bin\Debug\FileHandlingSystem.exe.config
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\bin\Debug\FileHandlingSystem.exe
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\bin\Debug\FileHandlingSystem.pdb
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.csproj.AssemblyReference.cache
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.Properties.Resources.resources
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.csproj.GenerateResource.cache
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.csproj.CoreCompileInputs.cache
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.exe
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.pdb
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.MainForm.resources
+E:\csharp\Practice assignments\Winform\FileHandlingSystem\obj\Debug\FileHandlingSystem.UserForm.resources
+C:\Users\ishik\source\repos\FileHandlingSystem\bin\Debug\FileHandlingSystem.exe.config
+C:\Users\ishik\source\repos\FileHandlingSystem\bin\Debug\FileHandlingSystem.exe
+C:\Users\ishik\source\repos\FileHandlingSystem\bin\Debug\FileHandlingSystem.pdb
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.csproj.AssemblyReference.cache
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.MainForm.resources
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.Properties.Resources.resources
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.UserForm.resources
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.csproj.GenerateResource.cache
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.exe
+C:\Users\ishik\source\repos\FileHandlingSystem\obj\Debug\FileHandlingSystem.pdb

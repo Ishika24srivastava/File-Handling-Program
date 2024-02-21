@@ -1,0 +1,7 @@
+3,Miss,Nikita ,,Thakur,9/22/2000,B.Tech in Information Technology (IT),8/16/2023,Vertex Infosoft,Manuali
+4,Mr.,Paras,,jain,7/11/2001,B.Tech in Information Technology (IT),2/20/2024,Vertex Infosoft Solutions,Aerocity Road
+5,Mr.,Anmol,,,7/17/2001,B.Tech in Information Technology (IT),8/16/2023,Vertex Infosoft Solutions,Aerocity Road
+6,Miss,Tanuja,,Sharma,12/11/2001,Master of Computer Applications (MCA),8/16/2023,Vertex Infosoft,Girls P.G
+7,Miss,DSD,,,2/20/2024,Master of Computer Applications (MCA),2/20/2024,SDDF,
+9,Miss,jopiudwue,,sere,2/21/2024,Master of Computer Applications (MCA),2/21/2024,wetrte,
+10,Mr.,affddf,,,2/21/2024,Master of Computer Applications (MCA),2/21/2024,drre,
